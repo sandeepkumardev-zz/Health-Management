@@ -1,3 +1,10 @@
-2020-02-06 jump 30sec
-2020-02-06 pusups 40sec 
-2020-02-06 side plank 45sec
+
+ Fri Feb 7   15:32  
+   Exercise Name Spend Time
+0           abc      1 min 
+
+ Fri Feb 7   15:32  
+   Exercise Name Spend Time
+0           abc      1 min
+1           asd      2 min 
+

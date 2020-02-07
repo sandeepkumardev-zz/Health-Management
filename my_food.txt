@@ -2,3 +2,4 @@
 2020-02-06 10:42:45.141539  Lunch     Rise & Daal
 2020-02-06 10:44:30.955016  Dinner    Roti & Panir
 
+Fri Feb 7   10:32   {'breakfast': 'daal', 'lunch': '', 'dinner': ''} 
